@@ -1,63 +1,67 @@
-<!-- Banner / Cabeçalho -->
-<h1 align="center">👋 Olá, eu sou o Vinicius!</h1>
-<p align="center">
-  💻 Desenvolvedor <strong>FullStack</strong> | Laravel • React • Python <br>
-  🚀 Criando soluções escaláveis e experiências digitais modernas <br>
-  🌎 Brasília - DF | 📧 viniciusaguiarbenvinda@gmail.com
-</p>
+<h1 align="left">👋 Olá, eu sou o Vinicius!</h1>
 
----
+###
 
-## 🚀 Sobre mim
-Sou apaixonado por tecnologia, automação e desenvolvimento de software.  
-Tenho experiência em **projetos reais**, atuando como **FullStack**, desde a concepção até o deploy em ambientes produtivos.  
-Busco sempre **melhorar processos** e criar **soluções eficientes e seguras**.
+<p align="left">💻 Desenvolvedor FullStack | Laravel • Tailwind• Python<br>  🚀 Criando soluções, adquirindo experiências e transformando ideias em realidade<br>  🌎 Brasília - DF | 📧 viniciusaguiarbenvinda@gmail.com</p>
 
----
+###
 
-## 🛠️ Tecnologias e Ferramentas
-<div align="center">
+<h2 align="left">🚀Sobre mim</h2>
 
-| **Back-end** | **Front-end** | **Banco de Dados** | **DevOps & Cloud** |
-|-------------|--------------|----------------------|----------------------|
-| PHP (Laravel), Python, Node.js | React, TailwindCSS | MySQL, PostgreSQL | Docker, Nginx, AWS |
+###
 
+<p align="left">Sou apaixonado por tecnologia, automação e desenvolvimento de software.  <br>Tenho experiência em projetos reais, atuando como FullStack, desde a concepção até o deploy em ambientes produtivos.  <br>Busco sempre melhorar processos e criar programas eficientes e seguros.</p>
+
+###
+
+<h2 align="left">Eu trabalho com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
----
+###
 
-## 📌 Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|------------|
-| [**PortfolioHUB**](https://github.com/vaguiarb/portfolioHUB) | Meu portfólio digital profissional para apresentar habilidades, projetos e certificações | React, Tailwind, Vite |
-| [**Plataforma Shalom**](https://github.com/vaguiarb/shalom) | Sistema de doações com API Asaas, automação de relatórios e dashboards | Laravel, Python, AWS |
-| [**Automação IQVC**](https://github.com/vaguiarb/automacao-iqvc) | Scripts para processar formulários e integrar com planilhas dinâmicas | Python, Google API |
-| [**WoodWork**](#) *(Privado)* | Sistema para marcenarias: gestão de pedidos, estoque e automações | Laravel, MySQL, Docker |
+<h2 align="left">📜Meus Projetos</h2>
 
-> 🔒 **Observação:** Alguns projetos são privados por questões comerciais. Caso queira saber mais, entre em contato comigo.
+###
 
----
+<p align="left">Plataforma Shalom → Sistema de doações com API Asaas, automação de relatórios e dashboards<br>Tecnologias: Laravel, Python, AWS<br>Link: https://github.com/vaguiarb/shalom<br><br>Automação IQVC → Scripts para processar formulários e integrar com planilhas dinâmicas<br>Tecnologias: Python, Google API<br>Link: https://github.com/vaguiarb/automacao-iqvc<br><br>WoodWork (Privado) → Sistema para marcenarias: gestão de pedidos, estoque e automações<br>Tecnologias: Laravel, MySQL, Docker<br><br>🔒 Observação: Os projetos são privados por questões comerciais. Caso queira saber mais, entre em contato comigo.</p>
 
-## 📜 Certificações
-- Hacker Ético Profissional — Udemy (2023)  
-- Redes Neurais Artificiais em Python — Udemy (2024)  
-- Aprendizagem por Reforço com PyTorch — Udemy (2023)  
-- Desenvolvimento Android (15 Apps) — Udemy (2025)  
-- Flutter: Criação de Apps Android e iOS — Udemy (2025)
+###
 
----
+<h2 align="left">📬 Contato</h2>
 
-## 📬 Contato
-<div align="center">
-  
-🌐 [**Portfólio**](https://vaguiarb.dev) •  
-💼 [**LinkedIn**](https://linkedin.com/in/vinicius-aguiar000) •  
-📧 [**Email**](mailto:viniciusaguiarbenvinda@gmail.com)  
+###
 
-</div>
+<p align="left">🌐 Portfólio → https://vaguiarb.dev<br>💼 LinkedIn → https://linkedin.com/in/vinicius-aguiar000<br>📧 Email → viniciusaguiarbenvinda@gmail.com</p>
 
----
-
-<p align="center">
-  Feito por <a href="https://github.com/ViniAguiarBen">Vinicius de Aguiar Benvinda</a>
-</p>
+###
